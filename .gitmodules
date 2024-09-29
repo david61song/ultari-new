@@ -1,0 +1,6 @@
+[submodule "openwrt_custom_feeds"]
+	path = openwrt_custom_feeds
+	url = git@github.com:david61song/openwrt_custom_feeds.git
+[submodule "custom_feeds"]
+	path = custom_feeds
+	url = git@github.com:david61song/openwrt_custom_feeds.git
